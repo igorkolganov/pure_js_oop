@@ -1,5 +1,5 @@
 import { ChatRoom } from "./Mediator.js"
-import { Participant } from "./Participant.js";
+import { Participant } from "./Participant.js"
 
 let chatroom = new ChatRoom()
 
