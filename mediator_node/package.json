@@ -1,0 +1,13 @@
+{
+  "name": "mediator_node",
+  "version": "1.0.0",
+  "description": "mediator behaviour pattern",
+  "license": "MIT",
+  "author": "iKolganov",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  }
+}
